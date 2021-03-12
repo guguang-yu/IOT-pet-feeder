@@ -1,5 +1,5 @@
 # IOT-pet-feeder
-Pet feeder based on Litron EDA and Tuya Smart
+Pet feeder based on Lichuang EDA and Tuya Smart
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
 Equipment name
