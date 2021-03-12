@@ -29,5 +29,7 @@ Design ideas　　
 Project Plan
 ==
 Material preparation before March 18 
+
 Software development from March 18th to 25th
+
 Debug the project before March 30
