@@ -1,12 +1,15 @@
 # IOT-pet-feeder
 Pet feeder based on Litron EDA and Tuya Smart
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+
 Equipment name
 ==
 Home smart pet feeder
+
 Design background of smart pet feeder
 ==
 In today's society, people's work and study are very busy. When people go out for a long time, the supply of pets' food and water will have big problems. Especially when people are on a business trip or are on vacation, they often fail to take good care of their pets in time, and the diet of pets often becomes a major problem that plagues people. This device is a device designed for this problem. He has played a positive role in the intelligentization of homes. While improving the efficiency and fun of people's lives, it also reduces the worries about people's travel.
+
 The main function
 ==
 1. Smart pet feeder is a remote control feeder that can transmit real-time video, two-way voice intercom, automatic/manual timing and quantitative feeding.
@@ -22,6 +25,7 @@ The main function
 Design ideas　　 
 ==
 805151Single chip microcomputer and ARM STM32F4XX Brushed DC motor Control speed PWM control direction and speed Temperature and humidity sensor to control temperature and humidity
+
 Project Plan
 ==
 Material preparation before March 18 
