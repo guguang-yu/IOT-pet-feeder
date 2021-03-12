@@ -11,13 +11,13 @@ The main function
 ==
 1. Smart pet feeder is a remote control feeder that can transmit real-time video, two-way voice intercom, automatic/manual timing and quantitative feeding.
 
-　　 2. You can turn on your phone anywhere, you can watch your pet's every move in real time, and feed as you like.
+2. You can turn on your phone anywhere, you can watch your pet's every move in real time, and feed as you like.
 
-　　 3. When you are away on a business trip, you don’t have to worry about your pet starving. Regular and quantitative feeding will meet your pet needs when you go out.
+3. When you are away on a business trip, you don’t have to worry about your pet starving. Regular and quantitative feeding will meet your pet needs when you go out.
 
-　　 Fourth, abnormal alarm prompts, power and network can also be normal operation, will not affect your pet's meal time.
+4. abnormal alarm prompts, power and network can also be normal operation, will not affect your pet's meal time.
 
-　　 5. With the support of the APP social platform, you can capture the dynamics of your pet and share it on WeChat Moments, Weibo, etc. at any time
+5. With the support of the APP social platform, you can capture the dynamics of your pet and share it on WeChat Moments, Weibo, etc. at any time
 Design ideas　　 
 ==
 805151Single chip microcomputer and ARM STM32F4XX Brushed DC motor Control speed PWM control direction and speed Temperature and humidity sensor to control temperature and humidity
