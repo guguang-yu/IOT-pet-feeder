@@ -18,6 +18,7 @@ The main function
 4. abnormal alarm prompts, power and network can also be normal operation, will not affect your pet's meal time.
 
 5. With the support of the APP social platform, you can capture the dynamics of your pet and share it on WeChat Moments, Weibo, etc. at any time
+
 Design ideas　　 
 ==
 805151Single chip microcomputer and ARM STM32F4XX Brushed DC motor Control speed PWM control direction and speed Temperature and humidity sensor to control temperature and humidity
